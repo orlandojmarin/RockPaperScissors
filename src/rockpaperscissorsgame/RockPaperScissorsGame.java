@@ -22,7 +22,6 @@ import java.util.Random;
  */
 
 /*
-DIRECTIONS IN BLACKBOARD:
 Follow the directions for this exercise. In addition, have a way to play again 
 or end the game. Keep track of the number of the wins for the player and the 
 number of wins for the computer. Display the win totals in your GUI while the 
@@ -30,7 +29,6 @@ game is being played.
 */
 
 /*
-DIRECTIONS IN BOOK:
 Write a program that lets the user play the game of Rock, Paper, Scissors against the computer. The program should work as follows:
 When the program begins, a random number in the range of 0 through 2 is generated. 
 If the number is 0, then the computer has chosen rock. 
